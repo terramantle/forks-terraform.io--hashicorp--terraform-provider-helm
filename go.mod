@@ -3,7 +3,7 @@ module github.com/hashicorp/terraform-provider-helm
 go 1.24.5
 
 require (
-	github.com/hashicorp/go-version v1.7.0
+	github.com/hashicorp/go-version v1.9.0
 	github.com/hashicorp/terraform-plugin-docs v0.20.1
 	github.com/hashicorp/terraform-plugin-framework v1.16.0
 	github.com/hashicorp/terraform-plugin-framework-timeouts v0.6.0
